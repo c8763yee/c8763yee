@@ -6,12 +6,11 @@ I'm currently a second-year undergraduate student majoring in computer science a
 
 ![](https://github-readme-stats.vercel.app/api?username=c8763yee&show_icons=true&locale=en)
 
-## language and tools
-Mainly use
 ![image alt](https://github-readme-stats.vercel.app/api/top-langs?username=c8763yee&show_icons=true&theme=dark&locale=en&layout=compact)
-
+## language and tools
+### Mainly used
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-I have also learned these languages but not that familiar with them
+### I have also learned these languages but not that familiar with them
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
         height="40" />
@@ -28,4 +27,5 @@ I have also learned these languages but not that familiar with them
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust"
         width="40" height="40" />
 </a>
+
 ![img](https://komarev.com/ghpvc/?username=c8763yee&label=Profile%20views&color=0e75b6&style=flat)
