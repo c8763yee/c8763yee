@@ -1,6 +1,6 @@
 # Hi!
 ## About me
-I'm currently a second-year undergraduate student majoring in computer science at National Taichung University of Science and technology
+I'm currently a third-year undergraduate student majoring in computer science at National Taichung University of Science and technology
 ## status
 [![c8763yee's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=c8763yee&theme=dark)](https://github.com/c8763yee/leetcode_python)
 
