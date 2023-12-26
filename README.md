@@ -1,6 +1,10 @@
 # Hi!
 ## About me
 I'm currently a third-year undergraduate student majoring in computer science at National Taichung University of Science and technology
+
+As a computer science major, I have always been fascinated by the world of coding. I enjoy the challenge of solving complex problems and finding creative solutions to improve code efficiency. This passion has led me to spend countless hours to practice.
+
+I believe that coding is not only a valuable skill, but also an art form. The ability to create something from scratch, using only lines of code, is truly remarkable.
 ## status
 [![c8763yee's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=c8763yee&theme=dark)](https://github.com/c8763yee/leetcode_python)
 
