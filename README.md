@@ -1,6 +1,6 @@
 # Hi!
 ## About me
-I'm currently a first-year graduated student majoring in computer science at National Chung Cheng University.
+I'm currently a first-year graduate student majoring in computer science at National Chung Cheng University.
 
 As a computer science major, I have always been fascinated by the world of coding. I enjoy the challenge of solving complex problems and finding creative solutions to improve code efficiency. This passion has led me to spend countless hours to practice.
 
